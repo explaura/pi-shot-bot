@@ -1,0 +1,19 @@
+{
+  "name": "pi-shot-bot",
+  "version": "1.0.0",
+  "description": "A bot which pours shots for you when triggered",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/explaura/pi-shot-bot.git"
+  },
+  "author": "Laura Brandon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/explaura/pi-shot-bot/issues"
+  },
+  "homepage": "https://github.com/explaura/pi-shot-bot#readme"
+}
