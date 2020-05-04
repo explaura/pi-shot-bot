@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/explaura/pi-shot-bot/issues"
   },
-  "homepage": "https://github.com/explaura/pi-shot-bot#readme"
+  "homepage": "https://github.com/explaura/pi-shot-bot#readme",
+  "dependencies": {
+    "onoff": "^6.0.0"
+  }
 }
