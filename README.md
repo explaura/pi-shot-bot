@@ -1,6 +1,6 @@
 # Shot Bot
 
-A bot running on Raspberry Pi which pours shots when triggered over the internet.
+A service running on Raspberry Pi which pours shots when triggered over the internet.
 
 ## Prerequisites
 
