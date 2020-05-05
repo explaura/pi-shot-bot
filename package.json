@@ -22,20 +22,20 @@
   "dependencies": {
     "onoff": "^6.0.0",
     "bcryptjs": "^2.4.3",
-    "env-cmd": "^9.0.3",
     "express": "^4.17.1",
     "jsonwebtoken": "^8.5.1",
     "mongodb": "^3.2.7",
     "mongoose": "^5.7.5",
-    "nodemon": "^1.19.1",
     "validator": "^11.0.0"
   },
   "devDependencies": {
     "@types/node": "^13.11.0",
+    "env-cmd": "^9.0.3",
     "eslint": "^6.8.0",
     "eslint-config-prettier": "^6.10.1",
     "eslint-plugin-prettier": "^3.1.2",
     "husky": "^4.2.3",
+    "nodemon": "^1.19.1",
     "prettier": "^2.0.4"
   },
   "husky": {
