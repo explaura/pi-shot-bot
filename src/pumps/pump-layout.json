@@ -1,0 +1,15 @@
+{
+  "pumps": [
+    {
+      "dark-rum": 1,
+      "vodka": 2,
+      "gin": 3,
+      "cointreau": 4,
+      "tonic": 5,
+      "coke": 6,
+      "lemonade": 7,
+      "ginger-beer": 8,
+      "lime-juice": 9
+    }
+  ]
+}
