@@ -1,0 +1,24 @@
+{
+  "beverages": [
+    {
+      "cuba-libre": {
+        "name": "Cuba Libre"
+      },
+      "gin-and-tonic": {
+        "name": "Gin & Tonic"
+      },
+      "moscow-mule": {
+        "name": "Moscow Mule"
+      },
+      "dark-and-stormy": {
+        "name": "Dark & Stormy"
+      },
+      "gin-margarita": {
+        "name": "Gin Margarita"
+      },
+      "vodka-margarita": {
+        "name": "Vodka Margarita"
+      }
+    }
+  ]
+}

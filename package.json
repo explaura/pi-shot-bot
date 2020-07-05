@@ -1,7 +1,7 @@
 {
-  "name": "pi-shot-bot",
+  "name": "pi-beverage-bot",
   "version": "1.0.0",
-  "description": "A bot which pours shots for you when triggered",
+  "description": "A bot which pours beverages when triggered",
   "main": "app.js",
   "scripts": {
     "start": "env-cmd -f ./.env nodemon src/app.js",
@@ -16,9 +16,9 @@
   "author": "Laura Brandon",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/explaura/pi-shot-bot/issues"
+    "url": "https://github.com/explaura/pi-beverage-bot/issues"
   },
-  "homepage": "https://github.com/explaura/pi-shot-bot#readme",
+  "homepage": "https://github.com/explaura/pi-beverage-bot#readme",
   "dependencies": {
     "onoff": "^6.0.0",
     "bcryptjs": "^2.4.3",
