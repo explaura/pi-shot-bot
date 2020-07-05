@@ -1,7 +1,28 @@
-# Shot Bot
+# Beverage Bot
 
 ## Overview
-A service running on Raspberry Pi which pours shots when triggered over the internet.
+A service running on Raspberry Pi which pours beverages when triggered over the internet.
+
+### Liquors
+- Dark rum
+- Vodka
+- Gin
+- Cointreau
+
+### Mixers
+- Tonic
+- Coke
+- Lemonade
+- Ginger beer
+- Lime juice
+
+### Beverages
+- Cuba Libre
+- Gin & Tonic
+- Moscow Mule
+- Dark & Stormy
+- Gin/Vodka Margarita
+- & more...
 
 ## Prerequisites
 
